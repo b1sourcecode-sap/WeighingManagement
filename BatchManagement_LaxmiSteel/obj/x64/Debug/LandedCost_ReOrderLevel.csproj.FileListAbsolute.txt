@@ -1,0 +1,24 @@
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\LandedCost_ReOrderLevel.exe.config
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\LandedCost_ReOrderLevel.csproj.ResolveComReference.cache
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\LandedCost_ReOrderLevel.exe
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\LandedCost_ReOrderLevel.pdb
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\LandedCost_ReOrderLevel.csprojResolveAssemblyReference.cache
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\LandedCost_ReOrderLevel.DisplayReport.resources
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\LandedCost_ReOrderLevel.ReportDisplay.resources
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\LandedCost_ReOrderLevel.Form1.resources
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\LandedCost_ReOrderLevel.csproj.GenerateResource.Cache
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\LandedCost_ReOrderLevel.exe
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\LandedCost_ReOrderLevel.pdb
+F:\NepalProject\LandedCost\bin\Debug\LandedCost_ReOrderLevel.exe.config
+F:\NepalProject\LandedCost\obj\x64\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\LandedCost\obj\x64\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\LandedCost\obj\x64\Debug\LandedCost_ReOrderLevel.csproj.ResolveComReference.cache
+F:\NepalProject\LandedCost\obj\x64\Debug\LandedCost_ReOrderLevel.exe
+F:\NepalProject\LandedCost\obj\x64\Debug\LandedCost_ReOrderLevel.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+
+<DatabaseServerName>172.16.1.201:30015</DatabaseServerName>
+<dbUser>SYSTEM</dbUser>
+<dbPassword>P@ssw0rD</dbPassword>
+<CurrentSchema>TESTDAIRY20240218D</CurrentSchema>
+</CompanyDetails>

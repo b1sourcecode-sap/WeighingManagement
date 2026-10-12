@@ -1,0 +1,2 @@
+ExportReportToPdfFile Error :Failed to open the connection.
+WeighingSlip 2356_1748_{D382090F-1D38-45E1-961C-16BD7D60CD88}.rpt

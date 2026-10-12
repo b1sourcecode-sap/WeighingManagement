@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|VehicleWeightManagement.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\business logics\\custom forms\\clsvehicleweightmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|VehicleWeightManagement.csproj|solutionrelative:business logics\\custom forms\\clsvehicleweightmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|VehicleWeightManagement.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\bin\\debug\\xml files\\vehicleweightmanagement.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|VehicleWeightManagement.csproj|solutionrelative:bin\\debug\\xml files\\vehicleweightmanagement.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|VehicleWeightManagement.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\base classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|VehicleWeightManagement.csproj|solutionrelative:base classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|VehicleWeightManagement.csproj|d:\\bibas\\addon_ver10\\sujal\\vehicleweightmanagement\\base classes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|VehicleWeightManagement.csproj|solutionrelative:base classes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\Base Classes\\Constants.cs",
+              "RelativeDocumentMoniker": "Base Classes\\Constants.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\Base Classes\\Constants.cs",
+              "RelativeToolTip": "Base Classes\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T10:06:34.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsVehicleWeightManagement.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\Business Logics\\Custom Forms\\ClsVehicleWeightManagement.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsVehicleWeightManagement.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\Business Logics\\Custom Forms\\ClsVehicleWeightManagement.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsVehicleWeightManagement.cs",
+              "ViewState": "AgIAAOcAAAAAZGZmZqYpwPsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T10:15:40.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\Base Classes\\Database.cs",
+              "RelativeDocumentMoniker": "Base Classes\\Database.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\Base Classes\\Database.cs",
+              "RelativeToolTip": "Base Classes\\Database.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAASwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T09:03:23.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleWeightManagement.xml",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\bin\\Debug\\XML Files\\VehicleWeightManagement.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\VehicleWeightManagement.xml",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\VehicleWeightManagement\\bin\\Debug\\XML Files\\VehicleWeightManagement.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\VehicleWeightManagement.xml",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAewPAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-03T10:06:34.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

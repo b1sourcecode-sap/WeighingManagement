@@ -1,0 +1,4 @@
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\LandedCost.exe.config
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\Interop.SAPbobsCOM.dll
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\Interop.SAPbouiCOM.dll
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\LandedCost.csproj.ResolveComReference.cache

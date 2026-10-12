@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+
+	<DatabaseServerName>192.168.11.201:30015</DatabaseServerName>
+	<dbUser>SYSTEM</dbUser>
+	<dbPassword>P@ssw0rD</dbPassword>
+	<Database>STEELSLIVE</Database>
+	<LicenseServerName>192.168.11.201</LicenseServerName>
+
+</CompanyDetails>

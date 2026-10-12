@@ -1,0 +1,68 @@
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csproj.ResolveComReference.cache
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.DisplayReport.resources
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.ReportDisplay.resources
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csproj.GenerateResource.Cache
+F:\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.exe.config
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\Interop.SAPbouiCOM.dll
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csproj.ResolveComReference.cache
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.exe
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.pdb
+F:\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.exe
+F:\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.pdb
+F:\BatchManagement_LaxmiSteel\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csprojResolveAssemblyReference.cache
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.DisplayReport.resources
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.ReportDisplay.resources
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.Form1.resources
+F:\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csproj.GenerateResource.Cache
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.exe.config
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csproj.ResolveComReference.cache
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.exe
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.pdb
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.exe
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.pdb
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csprojResolveAssemblyReference.cache
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.DisplayReport.resources
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.ReportDisplay.resources
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.Form1.resources
+D:\SourceCodeSujal\AfterChangeBatchmanagement\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csproj.GenerateResource.Cache
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.exe.config
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.exe
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.pdb
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csproj.ResolveComReference.cache
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.DisplayReport.resources
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.ReportDisplay.resources
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.Form1.resources
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csproj.GenerateResource.Cache
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.exe
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.pdb
+D:\SourceCodeSujal\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csprojResolveAssemblyReference.cache
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.exe.config
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.exe
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.pdb
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.exe
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\BatchManagement_LaxmiSteel.pdb
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.Form1.resources
+E:\ird\BatchManagement_LaxmiSteel\obj\x86\Debug\BatchManagement_LaxmiSteel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\LandedCost.exe.config
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\LandedCost.exe
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\LandedCost.pdb
+E:\ird\BatchManagement_LaxmiSteel\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\BatchManagement_LaxmiSteel.csprojResolveAssemblyReference.cache
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\Interop.SAPbobsCOM.dll
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\Interop.SAPbouiCOM.dll
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\BatchManagement_LaxmiSteel.csproj.ResolveComReference.cache
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\LandedCost.Form1.resources
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\BatchManagement_LaxmiSteel.csproj.GenerateResource.Cache
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\LandedCost.exe
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\LandedCost.pdb
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\BatchManagement_LaxmiSteel.DisplayReport.resources
+E:\ird\BatchManagement_LaxmiSteel\obj\Debug\BatchManagement_LaxmiSteel.ReportDisplay.resources

@@ -1,0 +1,24 @@
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\bin\Debug\bin\Debug\XML Files\Barcode Scanning.xml
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\bin\Debug\Laxmi.exe.config
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\bin\Debug\Laxmi.exe
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\bin\Debug\Laxmi.pdb
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Laxmi.csprojResolveAssemblyReference.cache
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Laxmi.csproj.ResolveComReference.cache
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Laxmi.DisplayReport.resources
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Laxmi.ReportDisplay.resources
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Laxmi.Form1.resources
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Laxmi.csproj.GenerateResource.Cache
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Laxmi.exe
+F:\NepalProject\LaxmiHyundai\Hyundai_Customization\obj\x64\Debug\Laxmi.pdb
+F:\NepalProject\LandedCost_ReOrderLevel\bin\Debug\Laxmi.exe.config
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\Laxmi.csproj.ResolveComReference.cache
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\Laxmi.exe
+F:\NepalProject\LandedCost_ReOrderLevel\obj\x64\Debug\Laxmi.pdb

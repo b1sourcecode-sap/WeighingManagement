@@ -1,0 +1,29 @@
+IF (:object_type = '20' AND (:transaction_type='A' OR :transaction_type='U')) THEN
+counter := 0 ;
+
+select "U_TruckNo" into VehNo from OPDN where "DocEntry" = :list_of_cols_val_tab_del;
+select "U_VWMNo" into VehicleMgmtDocNum from OPDN where "DocEntry" = :list_of_cols_val_tab_del;
+select "DocNum" into DocNum from OPDN where "DocEntry" = :list_of_cols_val_tab_del;
+update "@VHWTMGTH1" set "U_GRPONum" = :DocNum,"U_GRPOEntry" = :list_of_cols_val_tab_del where "U_VehNo" = :VehNo AND "U_DocNum" =  :VehicleMgmtDocNum;
+
+END IF; 
+
+IF (:object_type = '59' AND (:transaction_type='A' OR :transaction_type='U')) THEN
+counter := 0 ;
+
+select "U_TruckNo" into VehNo from OIGN where "DocEntry" = :list_of_cols_val_tab_del;
+select "U_VWMNo" into VehicleMgmtDocNum from OIGN where "DocEntry" = :list_of_cols_val_tab_del;
+select "DocNum" into DocNum from OIGN where "DocEntry" = :list_of_cols_val_tab_del;
+update "@VHWTMGTH1" set "U_GRecptNo" = :DocNum,"U_GRecptEnt" = :list_of_cols_val_tab_del where "U_VehNo" = :VehNo AND "U_DocNum" =  :VehicleMgmtDocNum;
+
+END IF; 
+
+IF (:object_type = '67' AND (:transaction_type='A' OR :transaction_type='U')) THEN
+counter := 0 ;
+
+select "U_TruckNo" into VehNo from OWTR where "DocEntry" = :list_of_cols_val_tab_del;
+select "U_VWMNo" into VehicleMgmtDocNum from OWTR where "DocEntry" = :list_of_cols_val_tab_del;
+select "DocNum" into DocNum from OWTR where "DocEntry" = :list_of_cols_val_tab_del;
+update "@VHWTMGTH1" set "U_InvTransNo" = :DocNum,"U_InvTransEntry" = :list_of_cols_val_tab_del where "U_VehNo" = :VehNo AND "U_DocNum" =  :VehicleMgmtDocNum;
+
+END IF; 

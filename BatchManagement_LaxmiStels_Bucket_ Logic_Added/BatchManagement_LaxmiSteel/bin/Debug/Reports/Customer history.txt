@@ -1,0 +1,57 @@
+call WMS_CUSTOMERHISTORY_NEW('1');
+DROP PROCEDURE WMS_CUSTOMERHISTORY_NEW;
+CREATE PROCEDURE WMS_CUSTOMERHISTORY_NEW
+(
+ in manufSN nvarchar(20)
+)
+AS
+BEGIN
+
+select Row_Number() OVER (ORDER BY B."Status") "RowID",* from
+(Select * from (select Row_Number() OVER (ORDER BY T0."itemCode") "RowID1",
+T1."itemCode",
+T1."itemName", 
+--T0."customer" as "Customer Code",
+T0."custmrName" as "Customer Name" ,
+T1."U_WMS_DealerNm" as "Dealer Name",
+"callID" as "Service Code",
+T1."createDate" as "Service Date",
+T0."manufSN" as "Chessis Number",
+Case When T1."status"='-3' then 'Open' 
+when T1."status"='-2' then 'Pending' 
+when T1."status"='-1' then 'Closed' 
+End  "Status",
+T0."internalSN" as "Engine No",
+T0."invoiceNum" as "Sales Invoice",
+(Select To_Date("DocDate") from OINV 
+where "DocEntry"=(Select "DocEntry" from OINV where "DocNum"=T0."invoiceNum") )
+as "Sales Date",(Select "PrintHeadr" from OADM) "PrintHeadr",(Select "CompnyAddr" from OADM) "CompnyAddr"
+
+FROM OINS T0 INNER JOIN OSCL T1 ON T0."customer"=T1."customer" 
+                               and T0."itemCode"=T1."itemCode"
+                               and T0."internalSN"=T1."internalSN"
+union all
+  select 
+  Row_Number() OVER (ORDER BY "lItem_IdNo") "RowID1",
+  "LXM_VIRTUAL".Service_History."lItem_IdNo" as "itemCode",
+  "LXM_VIRTUAL".Service_History."sItem_Desc" as "itemName",
+  SUBSTRING ("sPh_Off" ,1,10)  as "Customer Name",
+  "LXM_VIRTUAL".Service_History."lSDlr_IdNo"  as "Dealer Name",
+  "LXM_VIRTUAL".Service_History."lJob_IdNo"  as "Service Code",
+  "LXM_VIRTUAL".Service_History."sJob_Date"   as "Service Date",
+ "LXM_VIRTUAL".Service_History."sChasis_No" as "Chessis Number",
+ '-1' as "Status",
+ "LXM_VIRTUAL".Service_History."sEngine_No" as "Engine No",
+ "LXM_VIRTUAL".Service_History."sCust_Voice" as "Sales Invoice",
+ "LXM_VIRTUAL".Service_History."sSale_Date" as "Sales Date",
+ (Select "PrintHeadr" from OADM) "PrintHeadr",(Select "CompnyAddr" from OADM) "CompnyAddr"
+from "LXM_VIRTUAL".Service_History
+where "sChasis_No" IS NOT NULL and "sChasis_No" not IN ('.','000')  and "sPh_Off" is not null) A
+
+
+where A."Chessis Number" =  :manufSN
+order by A."Service Date")B
+;
+      
+
+END

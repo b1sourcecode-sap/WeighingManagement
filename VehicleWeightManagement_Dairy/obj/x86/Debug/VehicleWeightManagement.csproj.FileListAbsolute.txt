@@ -1,0 +1,17 @@
+D:\SourceCodeSujal\VehicleWeightManagement\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SourceCodeSujal\VehicleWeightManagement\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SourceCodeSujal\VehicleWeightManagement\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SourceCodeSujal\VehicleWeightManagement\bin\Debug\VehicleWeightManagement.exe.config
+D:\SourceCodeSujal\VehicleWeightManagement\bin\Debug\VehicleWeightManagement.exe
+D:\SourceCodeSujal\VehicleWeightManagement\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\VehicleWeightManagement.csproj.ResolveComReference.cache
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\VehicleWeightManagement.DisplayReport.resources
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\VehicleWeightManagement.ReportDisplay.resources
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\VehicleWeightManagement.Form1.resources
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\VehicleWeightManagement.csproj.GenerateResource.Cache
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\VehicleWeightManagement.exe
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\VehicleWeightManagement.pdb
+D:\SourceCodeSujal\VehicleWeightManagement\bin\Debug\VehicleWeightManagement.pdb
+D:\SourceCodeSujal\VehicleWeightManagement\obj\x86\Debug\VehicleWeightManagement.csprojResolveAssemblyReference.cache

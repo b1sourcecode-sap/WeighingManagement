@@ -1,0 +1,51 @@
+E:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\LandedCost.exe.config
+E:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\LandedCost.exe
+E:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\LandedCost.pdb
+E:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.csproj.ResolveComReference.cache
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.DisplayReport.resources
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.ReportDisplay.resources
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.Form1.resources
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.csproj.GenerateResource.Cache
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.exe
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.pdb
+E:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.csprojResolveAssemblyReference.cache
+D:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\LandedCost.exe.config
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.csproj.ResolveComReference.cache
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.exe
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.pdb
+D:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\LandedCost.exe
+D:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\LandedCost.pdb
+D:\SourceCodeSujal\LandedCost_Sujal\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.csprojResolveAssemblyReference.cache
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.DisplayReport.resources
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.ReportDisplay.resources
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.Form1.resources
+D:\SourceCodeSujal\LandedCost_Sujal\obj\x86\Debug\LandedCost.csproj.GenerateResource.Cache
+E:\ird\LandedCost_Steel\bin\Debug\LandedCost.exe.config
+E:\ird\LandedCost_Steel\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\LandedCost_Steel\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\LandedCost_Steel\obj\x86\Debug\LandedCost.csproj.ResolveComReference.cache
+E:\ird\LandedCost_Steel\obj\x86\Debug\LandedCost.exe
+E:\ird\LandedCost_Steel\obj\x86\Debug\LandedCost.pdb
+E:\ird\LandedCost_Steel\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\LandedCost_Steel\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\LandedCost_Steel\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\LandedCost_Steel\bin\Debug\LandedCost.exe
+E:\ird\LandedCost_Steel\bin\Debug\LandedCost.pdb
+E:\ird\LandedCost_Steel\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\LandedCost_Steel\obj\x86\Debug\LandedCost.csprojResolveAssemblyReference.cache
+E:\ird\LandedCost_Steel\obj\x86\Debug\LandedCost.DisplayReport.resources
+E:\ird\LandedCost_Steel\obj\x86\Debug\LandedCost.ReportDisplay.resources
+E:\ird\LandedCost_Steel\obj\x86\Debug\LandedCost.Form1.resources
+E:\ird\LandedCost_Steel\obj\x86\Debug\LandedCost.csproj.GenerateResource.Cache

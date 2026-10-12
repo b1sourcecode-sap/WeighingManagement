@@ -1,0 +1,13 @@
+
+<Application>
+	<Menus>
+		<action type="add">
+
+      <!--<Menu Checked="0" Enabled="1" FatherUID="2048" String="Weighing Bridge Dispatch Counter" Type="1" position="3" UniqueID="WBDC" />
+      <Menu Checked="0" Enabled="1" FatherUID="2048" String="Weighing Bridge Trailer Counter" Type="1" position="4" UniqueID="TWM" />-->
+      <Menu Checked="0" Enabled="1" FatherUID="43520" Position="15" String="Vehicle Management" Type="2" UniqueID="HVM" />
+      <Menu Checked="0" Enabled="1" FatherUID="HVM" String="Vehicle Weight Management" Type="1" position="5" UniqueID="VWM" />
+      
+    </action>
+	</Menus>
+</Application> 

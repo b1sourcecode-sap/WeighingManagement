@@ -1,0 +1,10 @@
+
+**** Log file opened at 2024-03-03 16:32:18.805548 UTC+05:45 (Nepal Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 01:34:20
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: D:\SAPAddon_Upgrade_10.0\KTM-200\BatchManagement_LaxmiSteel\bin\Debug\Reports, Program: crw64
+ Hardware: PC with Windows NT 12x AMD64 Level 6 (Mod 165 Step 3), Operating_system: Windows NT 6.3
+ Hostname: PC5, IP address: 172.16.1.101, IPv6 address: fe80::ccc:85f2:df9a:c572
+
+2024-03-03 16:32:18.807123 [13864] >> Info entry
+	Did not find config file D:\SAPAddon_Upgrade_10.0\KTM-200\BatchManagement_LaxmiSteel\bin\Debug\Reports\sapnwrfc.ini.
